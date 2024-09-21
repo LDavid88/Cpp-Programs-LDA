@@ -36,6 +36,7 @@ int main() {
             break;
         default:
             std::cout << "Enter a valid operator (+, -, *, /)";
+            break;
     }
 
     return 0;
